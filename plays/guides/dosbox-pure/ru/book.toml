@@ -1,0 +1,6 @@
+[book]
+authors = ["Andrey Fedoseev"]
+language = "ru"
+multilingual = false
+src = "src"
+title = "RU"
