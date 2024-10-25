@@ -3,4 +3,11 @@ authors = ["Andrey Fedoseev"]
 language = "ru"
 multilingual = false
 src = "src"
-title = "RU"
+title = "DOSBox Pure - Руководство по настройке и использованию"
+
+[preprocessor.alerts]
+
+## Keyboard Layout
+
+[output.html]
+additional-css = ["custom.css"]
