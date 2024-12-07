@@ -3,4 +3,9 @@ authors = ["Andrey Fedoseev"]
 language = "en"
 multilingual = false
 src = "src"
-title = "EN"
+title = "DOSBox Pure - Configuration and Usage Guide"
+
+[preprocessor.alerts]
+
+[output.html]
+additional-css = ["custom.css"]

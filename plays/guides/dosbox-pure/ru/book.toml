@@ -7,7 +7,5 @@ title = "DOSBox Pure - Руководство по настройке и исп�
 
 [preprocessor.alerts]
 
-## Keyboard Layout
-
 [output.html]
 additional-css = ["custom.css"]

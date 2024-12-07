@@ -39,3 +39,10 @@
 # Часто задаваемые вопросы
 
 - [Часто задаваемые вопросы](./faq.md)
+
+# Приложения
+
+- [История изменений](./appendix/changelog.md)
+- [Переводы](./appendix/translations.md)
+- [Авторы](./appendix/contributors.md)
+- [Лицензия](./appendix/license.md) 

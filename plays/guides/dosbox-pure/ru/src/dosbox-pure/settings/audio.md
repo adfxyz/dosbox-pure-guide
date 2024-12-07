@@ -61,7 +61,7 @@ MIDI-выход отключен.
 
 Включить эмуляцию звуковой карты [Gravis Ultrasound](https://ru.wikipedia.org/wiki/Gravis_Ultrasound).
 
-Параметры GUS:
+Параметры Gravis Ultrasound:
 
 - Port: `0x240`
 - IRQ: `5`
