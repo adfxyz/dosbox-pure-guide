@@ -9,3 +9,5 @@ title = "DOSBox Pure - Руководство по настройке и исп�
 
 [output.html]
 additional-css = ["custom.css"]
+git-repository-url = "https://github.com/adfxyz/dosbox-pure-guide/tree/main/ru/"
+edit-url-template = "https://github.com/adfxyz/dosbox-pure-guide/tree/main/ru/{path}"
