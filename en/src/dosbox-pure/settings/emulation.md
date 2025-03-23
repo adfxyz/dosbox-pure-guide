@@ -24,7 +24,3 @@ Automatically loads a `dosbox.conf` settings file when starting a game. Two opti
 ## Start Menu
 
 Allows you to configure when the DOSBox Pure start menu is displayed. By default, it is shown at core startup (before launching a game) and after exiting a game.
-
-## Input Latency
-
-Settings to reduce input delay. Requires additional manual configuration, so use this option only if you experience input lag issues.
